@@ -3,6 +3,9 @@
 第一个chrome拓展程序 —— 时钟
 
 
+![chromex](https://cloud.githubusercontent.com/assets/9512362/20386618/634b71c6-acf7-11e6-857b-3769be4f5b00.png)
+
+
 ## 打包
 
 用chrome打开 chrome://extensions/ -> 点击开发者模式 -> 点击打包拓展程序 -> 选中项目对应目录 -> 确定
