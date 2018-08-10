@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "ttop5的时钟",
-  "version": "1.01",
+  "version": "1.02",
   "description": "我的第一个Chrome拓展。",
 
   "browser_action": {
